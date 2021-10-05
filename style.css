@@ -1,0 +1,40 @@
+body
+{
+     font-family: 'Comic Neue', cursive;;
+     background-color: purple;
+}
+
+.header_div
+{
+    background-color: white;
+    color:yellow;
+}
+
+.header_div p
+{
+    color: pink;
+    font-family: 'Roboto Condensed', sans-serif;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight:bold;
+}
+
+.main_div button
+{
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-top: 30px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.copy-right-footer
+{
+    position: fixed;
+    bottom: 0;
+    background-color: honeydew;
+    width: 100%;
+    font-weight: bold;
+    text-align: center;
+    line-height:3;
+    text-shadow: 5px 5px 5px grey;
+}
